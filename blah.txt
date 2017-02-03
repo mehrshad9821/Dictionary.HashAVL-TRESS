@@ -1,0 +1,4 @@
+stop
+telephone
+face
+laser
