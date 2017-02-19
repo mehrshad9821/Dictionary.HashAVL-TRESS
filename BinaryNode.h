@@ -5,11 +5,7 @@ Class Description: holds an ADT type node tha is used in the dictionary
 Binary Search Tree.
 
 Created: July 15, 2016
-Authors:
-Alireza Rahbar
-Email:   ara14@sfu.ca
-ST ID:   301040709
------------
+
 Mehrshad Matin
 Email:  mmatin@sfu.ca
 ST ID:  301117102
