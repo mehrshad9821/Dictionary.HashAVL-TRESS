@@ -8,12 +8,7 @@ implementation of the ADT dictionary
 This is a drived class based on Entry. 
 It basically adds the hashed part to the implementation
 
-Created: July 31, 2016
-Authors:
-Alireza Rahbar
-Email:   ara14@sfu.ca
-ST ID:   301040709
------------
+
 Mehrshad Matin
 Email:  mmatin@sfu.ca
 ST ID:  301117102
