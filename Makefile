@@ -1,7 +1,4 @@
-#make file: Assignment 4
-# Alireza Rahbar
-# 301040709
-# ara14@sfu.ca
+
 
 all: EKTApp2
 
