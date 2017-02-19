@@ -6,11 +6,7 @@ Description: ADT binary tree: Link-based implementation.
 Class invariants: Item in the tree are always in order
 
 Created: July 15, 2016
-Authors:
-Alireza Rahbar
-Email:   ara14@sfu.ca
-ST ID:   301040709
------------
+
 Mehrshad Matin
 Email:  mmatin@sfu.ca
 ST ID:  301117102
