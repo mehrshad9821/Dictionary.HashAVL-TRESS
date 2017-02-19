@@ -4,12 +4,7 @@ File Name: dictionaryEntery.h
 Class Description: Contains and english word and its klingontraslation pair.
 These will be part of the each node as the data part.
 
-Created: July 15, 2016
-Authors:
-Alireza Rahbar
-Email:   ara14@sfu.ca
-ST ID:   301040709
------------
+
 Mehrshad Matin
 Email:  mmatin@sfu.ca
 ST ID:  301117102
