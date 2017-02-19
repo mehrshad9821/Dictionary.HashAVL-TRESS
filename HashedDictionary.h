@@ -8,11 +8,7 @@ in O(1). This ADT class is implemented based on the guidlines and
 samples provided in the textbook, chapter 18.
 
 Created: July 31, 2016
-Authors:
-Alireza Rahbar
-Email:   ara14@sfu.ca
-ST ID:   301040709
------------
+
 Mehrshad Matin
 Email:  mmatin@sfu.ca
 ST ID:  301117102
