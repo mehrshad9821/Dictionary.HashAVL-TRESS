@@ -7,12 +7,7 @@ Class Description: Defines the exception that is thrown when
 	-the entery was not found in the data collection ADT
 
 Created: July 31, 2016
-Authors:
-Alireza Rahbar
-Email:   ara14@sfu.ca
-ST ID:   301040709
 
------------
 Mehrshad Matin
 Email:  mmatin@sfu.ca
 ST ID:  301117102
